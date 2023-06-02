@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "Name": "hello",
+      "Email": "ashok@gmail.com",
+      "Number": "1111111111111111111",
+      "Cource": "111",
+      "id": 6
+    },
+    {
+      "Name": "devansh",
+      "Email": "devansh@gmail.chodna.com",
+      "Number": "44444",
+      "Cource": "hdj",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
